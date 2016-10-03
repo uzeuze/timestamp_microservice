@@ -1,0 +1,28 @@
+{
+  "name": "timestamp_microservice",
+  "version": "1.0.0",
+  "description": "FCC API Project Timestamp Microservice",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzeuze/timestamp_microservice.git"
+  },
+  "keywords": [
+    "api",
+    "timestamp"
+  ],
+  "author": "Egemen Can Uze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uzeuze/timestamp_microservice/issues"
+  },
+  "homepage": "https://github.com/uzeuze/timestamp_microservice#readme",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "moment": "^2.15.1"
+  }
+}
